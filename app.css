@@ -30,3 +30,28 @@ body {
 .topnav-right {
     float:right;
 }
+
+/* Title Section */
+.title-section {
+    color: #747264;
+    display: flex;
+    justify-content: center;
+}
+
+/* Add New Picture Section */
+.add-new-container {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+}
+
+.dropdown {
+    visibility: visible;
+}
+
+/* Display of Drawings Section */
+.display-container {
+    display: flex;
+    flex-direction: horizontal;
+}
